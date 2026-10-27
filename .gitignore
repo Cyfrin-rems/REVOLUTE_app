@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
