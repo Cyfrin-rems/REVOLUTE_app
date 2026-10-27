@@ -1,4 +1,4 @@
-:wq# REVOLUTE
+# REVOLUTE
 
 A small wallet web app: deposit, withdraw, send money between accounts, and see
 transaction history. Java 17, Servlet + JSP, packaged as a `.war`. Data is kept
